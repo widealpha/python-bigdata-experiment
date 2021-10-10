@@ -1,0 +1,1 @@
+{"image": {"src": "img.png", "size": [296, 553]}, "character": {"position": [40, 553, 0, 0], "blockSize": [40, 553], "children": {"eyes": [125, 90, 53, 98], "mouth": [52, 24, 83, 190]}}, "eyes": {"position": [34, 183, 41, 247], "blockSize": [125, 90]}, "mouth": {"position": [27, 69, 269, 0], "blockSize": [52, 24]}}
